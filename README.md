@@ -11,8 +11,12 @@ creacion de proyecto en django para reservas
  ```sh
   pip install virtualenv
   ```
+- activar entorno virtual
 
-  
+ ```sh
+ . venv/bin/active
+ ```
+
 
 
 
@@ -26,3 +30,4 @@ creacion de proyecto en django para reservas
   ```sh
   pip install -r requirements.txt
   ```
+  
