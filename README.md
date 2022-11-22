@@ -1,6 +1,6 @@
-# reservas
+# RESERVA
 
-creacion de proyecto en django para reservas
+creacion de proyecto en django para reservas (LINUX)
 
 ## Creacion entorno virtual
 
